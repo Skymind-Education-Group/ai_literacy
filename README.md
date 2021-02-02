@@ -1,2 +1,2 @@
-# Bootcamp July 2020
-This repo contains notebooks and RPA examples used in the workshop sessions of the Bootcamp.
+# AI Literacy
+This repo contains notebooks and RPA examples used in the class sessions of the co-curricular subject: AI Literacy.
